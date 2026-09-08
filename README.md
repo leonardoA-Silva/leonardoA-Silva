@@ -2,7 +2,7 @@
 
 # Hey there, I'm Leonardo 👋
 
-<img src="https://github-profile-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Node.js+Enthusiast;Always+learning+new+things;Welcome+to+my+profile!&random=false" width="435" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Node.js+Enthusiast;Always+learning+new+things;Welcome+to+my+profile%21&random=false" width="435" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/leonardoA-Silva?label=Follow&style=social)](https://github.com/leonardoA-Silva?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/leonardoA-Silva?style=social)](https://github.com/leonardoA-Silva)
@@ -16,7 +16,6 @@
 -   **Name:** Leonardo A. Silva
 -   **Role:** Full Stack Developer
 -   **Learning:** Always exploring new technologies and improving my skills
--   **Fun fact:** I love turning ideas into code
 
 ---
 
@@ -42,8 +41,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoA-Silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoA-Silva&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/leonardoA-Silva">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=leonardoA-Silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/leonardoA-Silva">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=leonardoA-Silva&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -53,7 +56,7 @@
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/leonardoA-Silva/leonardoA-Silva/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/leonardoA-Silva/leonardoA-Silva/output/github-snake-dark.svg" />
 
 </div>
 
