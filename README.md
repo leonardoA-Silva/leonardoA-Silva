@@ -52,24 +52,6 @@
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/leonardoA-Silva/leonardoA-Silva/output/github-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardoA-Silva&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Connect with Me
 
 <div align="center">
