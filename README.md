@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Leonardo%20A.%20Silva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Dispon%C3%ADvel%20para%20Freelance&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Leonardo%20A.%20Silva&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Dispon%C3%ADvel%20para%20Vagas%20e%20Freelance&descAlignY=55&descSize=16" />
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-![Disponível para freelance](https://img.shields.io/badge/DISPONÍVEL-PARA_FREELANCE-4ADE80?style=for-the-badge&logo=briefcase&logoColor=white)
+![Disponível para vagas e freelance](https://img.shields.io/badge/DISPONÍVEL-VAGAS_E_FREELANCE-4ADE80?style=for-the-badge&logo=briefcase&logoColor=white)
 [![GitHub followers](https://img.shields.io/github/followers/leonardoA-Silva?label=Seguidores&style=for-the-badge&color=0EA5E9)](https://github.com/leonardoA-Silva?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=leonardoA-Silva&color=4ADE80&style=for-the-badge&label=VISITAS)
 
@@ -16,18 +16,14 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Sobre mim
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 Sou **Desenvolvedor Full Stack** focado em criar produtos completos — do front-end bonito e rápido até o back-end sólido e escalável.
 
 - 🔭 Hoje trabalho com **React, Node.js, TypeScript e React Native**
 - 🌱 Explorando **Python, Visão Computacional e VR** — criador do [MirrorTrack-VR](https://github.com/leonardoA-Silva/MirrorTrack-VR)
-- 💼 Faço **freelances**: sites, sistemas, apps e APIs sob medida
+- 💼 Disponível para **vagas e freelances**: sites, sistemas, apps e APIs sob medida
 - ♻️ Experiência com projetos reais como o **FrontEnd-RF** — plataforma de reaproveitamento de resíduos industriais
 - ⚡ Prezo por **código limpo, performance e boa comunicação**
 - 📫 Fala comigo: **leonardoalves27silva@gmail.com**
-
-<br clear="right"/>
 
 ---
 
